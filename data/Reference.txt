@@ -1,0 +1,151 @@
+No:1
+Type:Book
+Author:Kornberger, H
+Year:2008
+Title:The power of stories: nurturing children's imagination and consciousness
+Publisher:Floris Books
+SeriesTitle:
+Edition:
+PlaceOfPublic:Edinburgh
+Reference1NoteList
+-----
+No:2
+Type:ConferencePaper
+Author:Lee, CY
+Year:2008
+Title:Security and ethical issues in the virtual world of Second Life
+Publisher:
+PlaceOfPublic:School of Information Systems, Deakin University
+PlaceHeld:Conference proceedings of AiCE 2008, Melbourne
+TimeHeld:11/2/2008
+PageNumber:119-129
+Reference2NoteList
+-----
+No:3
+Type:Journal
+Author:Srinivasan, G, Bhaduri, AK, Shankar, V & Raj, B
+Year:2008
+Title:Evaluation of hot cracking susceptibility of some austenitic stainless steels and a nickel-base alloy
+PeriodicalTitle:Welding in the World
+PlaceOfPublic:
+Volume:52
+Time:
+PageNumber:4-17
+Reference3NoteList
+-----
+No:4
+Type:OnlineJournal
+Author:Mohammed, A
+Year:2009
+Title:A remark on the classifications of rhotrices as abstract structures
+PeriodicalTitle:International Journal of Physical Sciences
+PlaceOfPublic:
+Volume:4
+Time:
+PageNumber:496-499
+TitleOfDB:Scopus
+FirstViewedDate:12/5/2010
+Reference4NoteList
+-----
+No:5
+Type:WebPage
+Author:Baldwin, HB
+Year:2006
+Title:How to become a CSI
+GroupHosting:International Crime Scene Investigators Association
+DateViewed:27/5/2008
+URL:http://www.icsia.org/faq.html
+Reference5NoteList
+-----
+No:6
+Type:Thesis
+Author:Sobieralski, C
+Year:1995
+Title:Development of a dangerous goods compliance model for the photographic manufacturing industry
+Publisher:MEng thesis
+PlaceOfPublic:Swinburne University of Technology
+Location:Melbourne
+Reference6NoteList
+-----
+No:7
+Type:OnlineJournal
+Author:Filippidis, L, Galea, ER, Gwynne, S & Lawrence, PJ
+Year:2006
+Title:Representing the influence of signage on evacuation behavior within an evacuation model
+PeriodicalTitle:Journal of Fire Protection Engineering
+PlaceOfPublic:
+Volume:16
+Time:
+PageNumber:37-73
+TitleOfDB:General OneFile, Gale
+FirstViewedDate:19/10/2009
+Reference7NoteList
+NoteNo:1
+NoteDateCreated:28/10/2010
+NoteText:This journal is about evacuation model
+-----
+No:8
+Type:ConferencePaper
+Author:Zhang, JS & Henkel, K
+Year:2008
+Title:Statistical properties of extragalactic H2O maser sources
+Publisher:Cambridge University Press
+PlaceOfPublic:Cambridge
+PlaceHeld:Alice Springs, Australia
+TimeHeld:12/3/2007
+PageNumber:414-415
+Reference8NoteList
+NoteNo:1
+NoteDateCreated:28/10/2010
+NoteText:An interesting paper
+-----
+No:9
+Type:Book
+Author:
+Year:1990
+Title:Training Australians: a better way of working: 27 case studies from leading Australian organisations of their best training strategies
+Publisher:Business Council of Australia
+SeriesTitle:
+Edition:
+PlaceOfPublic:Melbourne
+Reference9NoteList
+NoteNo:1
+NoteDateCreated:28/10/2010
+NoteText:Theory heavy
+-----
+No:11
+Type:Thesis
+Author:Syme Family
+Year:1947
+Title:Personal and business papers
+Publisher:Personal and business papers
+PlaceOfPublic:
+Location:State Library of Victoria
+Reference11NoteList
+NoteNo:1
+NoteDateCreated:28/10/2010
+NoteText:Long span
+-----
+No:12
+Type:WebPage
+Author:
+Year:
+Title:The history of the Edison Cylinder Phonograph
+GroupHosting:Library of Congress
+DateViewed:3/11/2008
+URL:http://lcweb2.loc.gov/ammem/edhtml/edcyldr.html
+Reference12NoteList
+NoteNo:1
+NoteDateCreated:28/10/2010
+NoteText:Find more webpage like this one
+-----
+No:13
+Type:WebPage
+Author:chnaged
+Year:1988
+Title:aWeb
+GroupHosting:sybase
+DateViewed:5/11/2010
+URL:a.com.au
+Reference13NoteList
+-----
