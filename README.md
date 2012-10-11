@@ -1,4 +1,4 @@
 RMS---Reference-Management-System
 =================================
 
-Small application written by Java to assist university to manage their references for university assignment
+Small Java application written to assist university students to manage their references for assignments
